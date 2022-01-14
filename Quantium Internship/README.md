@@ -1,8 +1,8 @@
 # [Quantium Data Analytics Virtual Internship](https://www.theforage.com/virtual-internships/prototype/NkaC7knWtjSbi6aYv/Data%20Analytics%20Virtual%20Experience%20Program#lp)
 <br>
-This program consists 3 tasks 
-### 1. Data preparation and customer analytics
-* Data validation
+This program consists 3 tasks <br>
+### 1. Data preparation and customer analytics <br>
+* Data validation<br>
 * Data visualisation<br>
 * Data wrangling<br>
 * Programming<br>
