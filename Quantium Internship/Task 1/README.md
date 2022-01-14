@@ -7,9 +7,9 @@ Analyse the data to understand the current purchasing trends and behaviours. The
 * Exploring the data, creating charts and graphs as well as noting any interesting trends and/or insights
 * Determine which segments we should be targeting, if packet sizes are relative
 -------------------------------------------------------------------------
-Code: Python
-IDE: Jupyter Notebook
-Project submitted: pdf
-Data saved: csv file
+Code: Python<br>
+IDE: Jupyter Notebook<br>
+Project submitted: pdf<br>
+Data saved: csv file<br>
 Data received: Excel and csv file
 ------------------------------------------------------------------------------------------------------
