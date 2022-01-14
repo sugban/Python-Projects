@@ -1,1 +1,15 @@
-We need to present a strategic recommendation to Julia that is supported by data which she can then use for the upcoming category review however to do so we need to analyse the data to understand the current purchasing trends and behaviours. The client is particularly interested in customer segments and their chip purchasing behaviour. Consider what metrics would help describe the customers’ purchasing behaviour.
+### Quantium Virtual Internship - Task 1
+---------------------------------------------------------------------------------
+Analyse the data to understand the current purchasing trends and behaviours. The client is particularly interested in customer segments and their chip purchasing behaviour. Consider what metrics would help describe the customers’ purchasing behaviour.
+-----------------------------------------------------------------------
+* Finding outliers and removing these
+* Checking data formats and correcting
+* Exploring the data, creating charts and graphs as well as noting any interesting trends and/or insights
+* Determine which segments we should be targeting, if packet sizes are relative
+-------------------------------------------------------------------------
+Code: Python
+IDE: Jupyter Notebook
+Project submitted: pdf
+Data saved: csv file
+Data received: Excel and csv file
+------------------------------------------------------------------------------------------------------
